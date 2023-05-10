@@ -5,7 +5,7 @@ metadata:
     operator.tekton.dev/last-applied-hash: 8353dd6bb4f36239f16fe4449f0f3442d2a045c975bc87d99481cc8bc780b636
     operator.tekton.dev/preserve-namespace: 'true'
   resourceVersion: '98767'
-  name: s2i-nodejs
+  name: s2i-nodejs-console
   uid: fa7c2f60-7665-4010-8f12-1bd2d060ae56
   creationTimestamp: '2023-04-05T06:08:15Z'
   generation: 1
